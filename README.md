@@ -1,2 +1,1 @@
-This is a project that i made for a car detection contest.
-It is fully developed with Python using Open cv and numpy modules
+A model developed to identify cars in a video and find the total number of cars in it. Implemented using Python with Open cv and numpy modules
