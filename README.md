@@ -1,1 +1,1 @@
-A model developed to identify cars in a video and find the total number of cars in it. Implemented using Python with Open cv and numpy modules
+A Car Detection and Counting System using OpenCV to demonstrate the practical applications of computer vision in surveillance. The project aimed to automate traffic monitoring by detecting and counting cars crossing a line in a video feed. The outcome was a successful demonstration of how technology can be used for efficient traffic management, with its real-world relevance and technical execution. 
